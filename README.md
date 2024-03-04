@@ -2,7 +2,7 @@
 - 👀 I’m interested in collaborative web design
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on creating web solutions
-- 📫 How to reach me twitter @stTAIWOEMMANUEL
+- 📫 How to reach me twitter @Webmaniacz
 
 <!---
 cReAtOR0009/cReAtOR0009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
